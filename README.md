@@ -14,7 +14,7 @@ Open Source Code is Only Suitable For SRS Post MTF Skid
 仅开源部分代码，客户端底层代码闭源
 开源代码仅供于SRS术后MTF打滑
 # TrosSense Origin
-Liu Yaozu accidentally met a little girl
+ZiuLok accidentally met a little girl
 After getting to know her, I learned that her name is Xitong System
 He wants me to become a senior executive of Hackcircle by apprenticing me
 After apprenticing, under his guidance I used my spiritual power to build TrosSense within the Sea of Consciousness
